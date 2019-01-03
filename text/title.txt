@@ -1,0 +1,16 @@
+---
+title:
+- type: main
+  text: Managing Software Developers
+- type: subtitle
+  text: And why is it so hard?
+
+creator:
+- role: author
+  text: Ron Reiter
+- role: editor
+  text: Sarah Jones
+
+rights:  2018 Ron Reiter
+publisher: Ron Reiter
+language: en-US
